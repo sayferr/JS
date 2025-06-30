@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #ebe6e6;
+  color: #353434;
+}
+
+.game-field {
+  position: relative;
+  width: 800px;
+  height: 600px;
+  margin: 20px auto;
+  border: 3px solid #fff;
+  overflow: hidden;
+}
+
+.block {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background: crimson;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 1000ms;
+}
+
+.timer {
+  font-size: 24px;
+  margin: 10px;
+}
+
+#result {
+  font-size: 30px;
+  margin-top: 20px;
+}/*# sourceMappingURL=style.css.map */
