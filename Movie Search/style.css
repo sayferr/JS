@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+#movies,
+#details {
+  margin-top: 20px;
+}
+
+button {
+  margin-left: 10px;
+}
+
+.movie {
+  margin-bottom: 10px;
+}
+
+.page-btn {
+  margin: 5px;
+}/*# sourceMappingURL=style.css.map */
